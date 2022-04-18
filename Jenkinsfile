@@ -12,13 +12,13 @@ pipeline {
             }
         }
 
-        stage("Test-RAMESH") {
+        stage("Test-Ankur") {
             steps {
                 echo 'Test a bkgcet application.....'
             }
         }
 
-        stage("Deploy-RAJESH") {
+        stage("Deploy-Aanchal") {
             steps {
                 echo 'Deploy a bkgcet application.....'
             }
